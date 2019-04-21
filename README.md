@@ -3,7 +3,7 @@ ProductBox QA Engineer Challenge
 
 Hello! Your task is to test Buggy Calculator; an html/js application that does basic calculations i.e. +-*/. 
 
-Please do not spend more than 15 minutes on this.
+Please do not spend more than 45 minutes on this.
 
 ## Getting Started
 I have provided you the html file in this repo which you can simply download or you may fork this repository and test it. 
